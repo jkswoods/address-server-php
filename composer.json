@@ -1,5 +1,5 @@
 {
-    "name": "jkswoods/jkswoods/address-server-php",
+    "name": "jkswoods/address-server-php",
     "type": "library",
     "description": "PHP wrapper for creating API calls to LBAM",
     "keywords": [
