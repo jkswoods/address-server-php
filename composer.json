@@ -3,8 +3,7 @@
     "type": "library",
     "description": "PHP wrapper for creating API calls to LBAM",
     "keywords": [
-        "jkswoods",
-        "jkswoods/address-server-php"
+        "jkswoods"
     ],
     "homepage": "https://github.com/jkswoods/address-server-php",
     "license": "MIT",
