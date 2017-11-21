@@ -1,6 +1,6 @@
 <?php
 
-namespace Jkswoods\AddressServer;
+namespace LBAM;
 
 use GuzzleHttp\Client;
 
