@@ -4,7 +4,7 @@ namespace Jkswoods\AddressServer;
 
 use GuzzleHttp\Client;
 
-class AdressServer {
+class AddressServer {
 
     private $client;
 
